@@ -1,1 +1,1 @@
-proyecto que crea una plantilla
+Proyecto que crea una plantilla
